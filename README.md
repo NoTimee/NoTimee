@@ -1,5 +1,5 @@
 ### 👋
 <div>
 <a href="https://discord.gg/lendz">
-<img heit="100em" src="https://github-readme-stats.vercel.app/api?username=notimee&show_icons=true&theme=dracula&include_all_commits=true">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notimee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
