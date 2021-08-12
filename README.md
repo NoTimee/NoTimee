@@ -18,3 +18,8 @@
   <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
 </div>
+
+<div> 
+ 	<a href="https://www.twitch.tv/nottimee" target="_blank"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2019/09/01-twitch-logo.jpg?quality=82&strip=all" target="_blank"></a>
+ <a href="https://discord.gg/lendz" target="_blank"><img src="https://img.ibxk.com.br/2021/05/14/14141731846249.jpg" target="_blank"></a> 
+</div>
