@@ -20,6 +20,6 @@
 </div>
 
 <div> 
- 	<a href="https://www.twitch.tv/nottimee" target="_blank"><img src="https://9to5mac.com/wp-content/uploads/sites/6/2019/09/01-twitch-logo.jpg?quality=82&strip=all" target="_blank"></a>
- <a href="https://discord.gg/lendz" target="_blank"><img src="https://img.ibxk.com.br/2021/05/14/14141731846249.jpg" target="_blank"></a> 
+ 	<a href="https://www.twitch.tv/nottimee" target="_blank"><img src="https://cdn.discordapp.com/attachments/786328201567535104/875504070666903582/pngfind.com-tv-icon-png-55210.png" target="_blank"></a>
+ <a href="https://discord.gg/lendz" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-2-1.png" target="_blank"></a> 
 </div>
